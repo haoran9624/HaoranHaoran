@@ -91,14 +91,14 @@ h1, h2, h3 {
 }
 
 .portfolio-img {
-	width: 100%;
+	width: 95%;
 	max-height: 250px;
 	display: block;
 	object-fit: cover;
 }
 
 .project-img {
-	width: 100%;
+	width: 95%;
 	display: block;
 	object-fit: cover;
 }

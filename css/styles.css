@@ -38,6 +38,11 @@ input:focus, textarea:focus {
   outline: none;
 }
 
+.head {
+	line-height: 5;
+	color: #555;
+}
+
 .portfolio-content {
 	line-height: 2;
 	color: #555;
